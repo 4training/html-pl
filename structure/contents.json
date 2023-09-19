@@ -1,0 +1,142 @@
+{
+    "language_code": "pl",
+    "english_name": "Polish",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "Bo\u017ca historia (pi\u0119\u0107 palc\u00f3w)",
+            "filename": "Bo\u017ca_historia_(pi\u0119\u0107_palc\u00f3w).html",
+            "version": "2.1",
+            "pdf": "Bo\u017ca_historia_(pi\u0119\u0107_palc\u00f3w).pdf"
+        },
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "Bo\u017ca historia (pierwsza i ostatnia ofiara)",
+            "filename": "Bo\u017ca_historia_(pierwsza_i_ostatnia_ofiara).html",
+            "version": "1.5"
+        },
+        {
+            "page": "Baptism",
+            "title": "Chrzest",
+            "filename": "Chrzest.html",
+            "version": "2.0",
+            "pdf": "1B_Chrzest.pdf"
+        },
+        {
+            "page": "Prayer",
+            "title": "Modlitwa",
+            "filename": "Modlitwa.html",
+            "version": "1.1"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Przebaczenie krok po kroku",
+            "filename": "Przebaczenie_krok_po_kroku.html",
+            "version": "1.1",
+            "pdf": "Przebaczenie_krok_po_kroku.pdf"
+        },
+        {
+            "page": "Confessing_Sins_and_Repenting",
+            "title": "Wyznawanie grzech\u00f3w i przemiana",
+            "filename": "Wyznawanie_grzech\u00f3w_i_przemiana.html",
+            "version": "1.0",
+            "pdf": "Wyznawanie_grzech\u00f3w_i_przemiana.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "Czas z Bogiem",
+            "filename": "Czas_z_Bogiem.html",
+            "version": "0.9",
+            "pdf": "3_Czas_z_Bogiem.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Jak us\u0142ysze\u0107 Boga",
+            "filename": "Jak_us\u0142ysze\u0107_Boga.html",
+            "version": "1.2"
+        },
+        {
+            "page": "Church",
+            "title": "Ko\u015bci\u00f3\u0142",
+            "filename": "Ko\u015bci\u00f3\u0142.html",
+            "version": "0.9",
+            "pdf": "4_Ko\u015bci\u00f3\u0142.pdf"
+        },
+        {
+            "page": "Healing",
+            "title": "Uzdrowienie",
+            "filename": "Uzdrowienie.html",
+            "version": "1.0",
+            "pdf": "Uzdrowienie.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Wskaz\u00f3wki do czytania Biblii",
+            "filename": "Wskaz\u00f3wki_do_czytania_Biblii.html",
+            "version": "2.0",
+            "pdf": "Wskaz\u00f3wki_do_czytania_Biblii.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Wskaz\u00f3wki do czytania Biblii (Siedem opowie\u015bci pe\u0142nych nadziei)",
+            "filename": "Wskaz\u00f3wki_do_czytania_Biblii_(Siedem_opowie\u015bci_pe\u0142nych_nadziei).html",
+            "version": "2.0",
+            "pdf": "Wskaz\u00f3wki_do_czytania_Biblii_(Siedem_opowie\u015bci_pe\u0142nych_nadziei).pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Wskaz\u00f3wki do czytania Biblii (Zacznijmy od stworzenia)",
+            "filename": "Wskaz\u00f3wki_do_czytania_Biblii_(Zacznijmy_od_stworzenia).html",
+            "version": "2.0",
+            "pdf": "Wskaz\u00f3wki_do_czytania_Biblii_(Zacznijmy_od_stworzenia).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "Proces trzy-trzecie",
+            "filename": "Proces_trzy-trzecie.html",
+            "version": "1.0",
+            "pdf": "Proces-trzy-trzecie.pdf"
+        },
+        {
+            "page": "Training_Meeting_Outline",
+            "title": "Plan spotkania treningowego",
+            "filename": "Plan_spotkania_treningowego.html",
+            "version": "1.0",
+            "pdf": "Plan_spotkania_treningowego.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Codzienna modlitwa",
+            "filename": "Codzienna_modlitwa.html",
+            "version": "1.0",
+            "pdf": "Codzienna_modlitwa.pdf"
+        },
+        {
+            "page": "Overcoming_Fear_and_Anger",
+            "title": "Jak pokona\u0107 strach i z\u0142o\u015b\u0107",
+            "filename": "Jak_pokona\u0107_strach_i_z\u0142o\u015b\u0107.html",
+            "version": "1.0",
+            "pdf": "Jak_pokona\u0107_strach_i_z\u0142o\u015b\u0107.pdf"
+        },
+        {
+            "page": "Getting_Rid_of_Colored_Lenses",
+            "title": "Pozbycie si\u0119 kolorowych okular\u00f3w",
+            "filename": "Pozbycie_si\u0119_kolorowych_okular\u00f3w.html",
+            "version": "1.0"
+        },
+        {
+            "page": "Overcoming_Pride_and_Rebellion",
+            "title": "Pokonywanie dumy i buntu",
+            "filename": "Pokonywanie_dumy_i_buntu.html",
+            "version": "1.0",
+            "pdf": "Pokonywanie_dumy_i_buntu.pdf"
+        },
+        {
+            "page": "Four_Kinds_of_Disciples",
+            "title": "Cztery rodzaje uczni\u00f3w",
+            "filename": "Cztery_rodzaje_uczni\u00f3w.html",
+            "version": "1.1",
+            "pdf": "Cztery_rodzaje_uczni\u00f3w.pdf"
+        }
+    ]
+}
