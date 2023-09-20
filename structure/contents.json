@@ -10,23 +10,11 @@
             "pdf": "Bo\u017ca_historia_(pi\u0119\u0107_palc\u00f3w).pdf"
         },
         {
-            "page": "God's_Story_(first_and_last_sacrifice)",
-            "title": "Bo\u017ca historia (pierwsza i ostatnia ofiara)",
-            "filename": "Bo\u017ca_historia_(pierwsza_i_ostatnia_ofiara).html",
-            "version": "1.5"
-        },
-        {
             "page": "Baptism",
             "title": "Chrzest",
             "filename": "Chrzest.html",
             "version": "2.0",
             "pdf": "1B_Chrzest.pdf"
-        },
-        {
-            "page": "Prayer",
-            "title": "Modlitwa",
-            "filename": "Modlitwa.html",
-            "version": "1.1"
         },
         {
             "page": "Forgiving_Step_by_Step",
@@ -41,26 +29,6 @@
             "filename": "Wyznawanie_grzech\u00f3w_i_przemiana.html",
             "version": "1.0",
             "pdf": "Wyznawanie_grzech\u00f3w_i_przemiana.pdf"
-        },
-        {
-            "page": "Time_with_God",
-            "title": "Czas z Bogiem",
-            "filename": "Czas_z_Bogiem.html",
-            "version": "0.9",
-            "pdf": "3_Czas_z_Bogiem.pdf"
-        },
-        {
-            "page": "Hearing_from_God",
-            "title": "Jak us\u0142ysze\u0107 Boga",
-            "filename": "Jak_us\u0142ysze\u0107_Boga.html",
-            "version": "1.2"
-        },
-        {
-            "page": "Church",
-            "title": "Ko\u015bci\u00f3\u0142",
-            "filename": "Ko\u015bci\u00f3\u0142.html",
-            "version": "0.9",
-            "pdf": "4_Ko\u015bci\u00f3\u0142.pdf"
         },
         {
             "page": "Healing",
@@ -117,12 +85,6 @@
             "filename": "Jak_pokona\u0107_strach_i_z\u0142o\u015b\u0107.html",
             "version": "1.0",
             "pdf": "Jak_pokona\u0107_strach_i_z\u0142o\u015b\u0107.pdf"
-        },
-        {
-            "page": "Getting_Rid_of_Colored_Lenses",
-            "title": "Pozbycie si\u0119 kolorowych okular\u00f3w",
-            "filename": "Pozbycie_si\u0119_kolorowych_okular\u00f3w.html",
-            "version": "1.0"
         },
         {
             "page": "Overcoming_Pride_and_Rebellion",
